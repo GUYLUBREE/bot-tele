@@ -12,12 +12,12 @@ const chalk = require('chalk')
 const spin = require('spinnies')
 const cfonts = require('cfonts')
 const fs = require('fs')
-const Bot_Token = 'TOKEN BOT' //Example '18009294047:AAhhsEMxPgAGoKaoJs21gW92B0KOHOi0kdksJs'
+const Bot_Token = '5059354073:AAHqlUm-lBP_ROUdN-TkzsKcMODF25mgl88' //Example '18009294047:AAhhsEMxPgAGoKaoJs21gW92B0KOHOi0kdksJs'
 const util = require('util')
 const transllate = require('@vitalets/google-translate-api')
 const afk = JSON.parse(fs.readFileSync('./lib/json/afk.json'))
 const updateLogger = require('telegraf-update-logger');
-const banner = cfonts.render(('Rizky Fadilah|Bot Telegram'), {
+const banner = cfonts.render(('KahfzXyBot|Bot Telegram'), {
 font: 'chrome',
 color: 'candy',
 align: 'center',

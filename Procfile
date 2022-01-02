@@ -1,1 +1,2 @@
-worker: npm i @adiwajshing/baileys@3.5.3 && npm start
+pekerja: npm i && node main
+saya

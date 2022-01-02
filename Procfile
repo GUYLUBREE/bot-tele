@@ -1,2 +1,2 @@
-pekerja: npm i && node main
+pekerja: npm i && npm start
 saya

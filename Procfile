@@ -1,2 +1,2 @@
-pekerja: npm i && npm start
+pekerja: npm i && npm run
 saya
